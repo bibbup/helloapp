@@ -10,6 +10,8 @@ internal class Program
     private static void PrintHello()
     {
         Console.WriteLine("hello everyone");
+        greetWhite();
+        greetBlack();
     }
 
     private static void greetWhite()
