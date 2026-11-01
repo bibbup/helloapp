@@ -9,7 +9,7 @@ internal class Program
 
     private static void PrintHello()
     {
-        Console.WriteLine("hello");
+        Console.WriteLine("hello everyone");
     }
 
     private static void greetWhite()
