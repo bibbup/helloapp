@@ -16,4 +16,9 @@ internal class Program
     {
         Console.WriteLine("hello white");
     }
+
+    private static void greetBlack()
+    {
+        Console.WriteLine("hello black");
+    }
 }
